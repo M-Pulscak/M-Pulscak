@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-Pulscak
 - 👀 I’m interested in programming language practice
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Data Analysis
 - 💞️ I’m looking to collaborate on moderate Python projects
 - 📫 How to reach me : michal_666@atlas.cz
 
