@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michal
 - 👀 I’m interested in programming automatic trading systems and Data Processing
-I’m currently improving in the field of Python, Data Analysis, SQL, PowerBI etc.
-I welcome cooperation in the development of trading systems at the XTB broker.
+- I’m currently improving in the field of Python, Data Analysis, SQL, PowerBI etc.
+- I welcome cooperation in the development of trading systems at the XTB broker.
 
 Thank you for your visit.
 
